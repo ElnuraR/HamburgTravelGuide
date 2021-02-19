@@ -1,0 +1,157 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Hamburg Travel Guide</string>
+
+    <!-- Category name for food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category - food -->
+    <string name="first_food_name">Bullerei</string>
+    <string name="first_food_desc">Restaurant</string>
+    <string name="first_food_full_desc">Bullerei seems to have it all: a beautiful building, great location
+        (right around the corner from the Sternschanze S-Bahn station), fun atmosphere, and dining options for both casual and special occasions.
+        Stop by for a deli lunch, sit outside with a sandwich or burger, or get a table in the restaurant and enjoy the creative dinner menu.
+        \nSteaks/meat dishes are the restaurant\'s specialties, they also do have vegetarian dishes and are happy to accommodate special requests or
+        to recommend options for non-meat eaters.</string>
+    <string name="first_food_address">Sternschanze, 20357 Hamburg, Germany</string>
+    <string name="first_food_phone">+49 40 33442110</string>
+
+    <string name="second_food_name">Elbgold</string>
+    <string name="second_food_desc">Coffeehouse</string>
+    <string name="second_food_full_desc">Elbgold has the reputation for serving \'the best coffee in the city\' — or at least in this part of the city.
+        With its own coffee roastery, the cafe definitely feels like a place that\'s really passionate about the art of coffee. Bagel sandwiches, pastries,
+        and cakes complete the experience, making it a great place for brunch, lunch, or an afternoon break.
+        \nTry the Franzbrötchen (sweet pastry, usually cinnamon-flavored), which is a typical Hamburg breakfast/brunch item, and goes great with coffee!</string>
+    <string name="second_food_address">Lagerstraße 32, 20357 Hamburg, Germany</string>
+    <string name="second_food_phone">+49 40 23517520</string>
+
+    <string name="third_food_name">Koppel</string>
+    <string name="third_food_desc">Cafe</string>
+    <string name="third_food_full_desc">Located in the \'Koppel66 Art and Craft House\' in the fashionable St. Georg area, Cafe Koppel is especially
+        great for lunch/brunch in the summer, as it has a great outdoor garden area. With a daily menu, homemade cakes, and of course coffee,
+        this is also one of the best vegetarian options in this part of Hamburg.
+        \nSometimes they run out of their daily specialties. Go earlier in the day for more choice.</string>
+    <string name="third_food_address">Lange Reihe 75, 20099 Hamburg, Germany</string>
+    <string name="third_food_phone">+49 40 249235</string>
+
+    <string name="fourth_food_name">Thämers</string>
+    <string name="fourth_food_desc">Bar</string>
+    <string name="fourth_food_full_desc">Thämers is another great spot in the Großneumarkt area, which is an easy walking distance from the famous St. Michael\'s church.
+        What many people think of as \'typical German food\' is often typical of southern Germany. Hamburg/northern Germany has its own local food traditions,
+        and at Thämers you can try out some northern specialties in a cozy, \'old-school\' local pub atmosphere.
+        \nNot all servers speak English, but they are all friendly and helpful, and you can also request an English menu.
+        For those who don\'t eat meat or fish, the selection is limited.</string>
+    <string name="fourth_food_address">Grossneumarkt 10, 20459 Hamburg, Germany</string>
+    <string name="fourth_food_phone">+49 40 345077</string>
+
+
+    <!-- Category name for sights [CHAR LIMIT=20] -->
+    <string name="category_sights">Sights</string>
+
+    <!-- Category - sights -->
+    <string name="first_sight_name">Town Hall</string>
+    <string name="first_sight_desc">Hamburg\'s Old Town</string>
+    <string name="first_sight_full_desc">If this is your first time in Hamburg, then a good starting point would be the area around the Jungfernstieg.
+        You will find yourself by the Binnenalster – an artificial lake, which is fed by the river Alster.
+        There are some magnificent buildingsalong the shores of the Binnenalster. Just a few minutes walk from the Jungfernstieg is one of the most
+        beautiful buildings in Hamburg: the town hall. This Neo-Renaissance building is not only surprisingly large, but also incredibly beautiful.
+        The courtyard of the town hall is also very worth seeing if you’re in the area.</string>
+    <string name="first_sight_address">Rathausmarkt 1, 20095 Hamburg, Germany</string>
+
+    <string name="second_sight_name"> St. Michael\'s church</string>
+    <string name="second_sight_desc">Main Church of St. Michaelis</string>
+    <string name="second_sight_full_desc">The most famous church in Hamburg is nicknamed the Michel. You can get here from the town hall in about
+        15 minutes by foot. You can either walk up the tower (453 steps) or choose to go up with the lift – the price is actually the same for both options.
+        The 360-degree view from high above Hamburg is just stunning and although you are behind safety bars, you can easily photograph through them.
+        For a super unique experience, you could also visit at night.They call this Nachtmichel (or Night Michel in English) and you can visit in the
+        evenings, past regular opening hours, on many days of the year. However, the prices are a little higher.</string>
+    <string name="second_sight_address">St. Michael\'s Church, Englische Planke, Hamburg, Germany</string>
+
+    <string name="third_sight_name">Planten un Blomen</string>
+    <string name="third_sight_desc">Park</string>
+    <string name="third_sight_full_desc">Planten un Blomen, which roughly translates to “Plants and Flowers”, is a large urban park in the middle of Hamburg.
+        It\'s an excellent escape on a nice day so pack a picnic and some adult beverages and enjoy nature. It\'s also famous for having Europe largest Japanese
+        garden and an impressive tropical greenhouse complex. There are also a number of playgrounds and other attractions for the kiddos.
+        Stadtpark, often called the “Green Heart” of Hamburg, is a huge park in the northern part of the city that locals flock to during the nice weather.
+        The park features dozens of statues, a lake, playgrounds, a large lawn, and wooded areas.</string>
+    <string name="third_sight_address">Planten un Blomen, Marseiller Straße, Hamburg, Germany</string>
+
+    <string name="fourth_sight_name">Miniatur Wunderland</string>
+    <string name="fourth_sight_desc">Museum</string>
+    <string name="fourth_sight_full_desc">The Miniatur Wunderland is not only the largest model railway in the world, but it’s also the most popular tourist
+        attraction in Germany. Before going we thought it would be a bit kitschy (and it is) but it’s actually a lot of fun. They’ve built multiple massive
+        scenes that are modeled around different parts of the world (and they’re adding more every year). But the real joy is taking the time to admire all
+        the details and easter eggs of each scene. And yes, some of the little figurines are a bit naughty.</string>
+    <string name="fourth_sight_address">Miniatur Wunderland, Kehrwieder, Hamburg, Germany</string>
+
+
+    <!-- Category name for tours [CHAR LIMIT=20] -->
+    <string name="category_tours">Tours</string>
+
+    <string name="first_tour_name">Harbour Cruise</string>
+    <string name="first_tour_desc">Sightseeing activity</string>
+    <string name="first_tour_full_desc">A typical sightseeing activity for Hamburg usually includes a harbour cruise. Exploring Hamburg from the water is
+        such a unique and special experience – we can only highly recommend you experience it for yourselves. There are countless providers offering harbour
+        cruises with a variety of ships and routes. However, we would recommend you take one of the smaller boats (called barges), because only these small
+        boats will pass through the narrower canals (in the Hamburg Fleete) of the Speicherstadt. Most ships depart from the Landungsbrücken and when you get
+        there, be prepared to be overwhelmed by the amount of harbour cruise offers.</string>
+    <string name="first_tour_address">Landungsbrücken, Kuhberg, Hamburg, Germany</string>
+
+    <string name="second_tour_name">Alsterrundfahrt Tour</string>
+    <string name="second_tour_desc">Tour along the River</string>
+    <string name="second_tour_full_desc">The second most popular boat tour in Hamburg would be the Alsterrundfahrt Tour – along the Alster River.The classic
+        Alsterrundfahrt starts at the Jungfernstieg and takes you across the Binnenalster and the Außenalster for about 1 hour. As you cruise along the shore,
+        you’ll learn some background information about Hamburg and specific individual buildings along the tour.</string>
+    <string name="second_tour_address">Alster, Hamburg, Germany</string>
+
+    <string name="third_tour_name">Free Walking Tours</string>
+    <string name="third_tour_desc">Sightseeing activity</string>
+    <string name="third_tour_full_desc">One of the best ways to get a nice overview of Hamburg is through a free walking tour. Their Historic City Center tour
+        gave a nice overview of Hamburg’s history and you see a lot of the classic sights like St Michael’s Church, the Rathaus, Nikolaifleet (the old canal).
+        Also St. Pauli &amp; Reeperbahn tour — which covers some of the seedier parts of the city’s past. Another interesting option is to request to get
+        shown around town by local volunteer greeters via Hamburg Greeter. This is a volunteer organization so you need to request a greeter at least two
+        weeks in advance.</string>
+    <string name="third_tour_address">Malzweg 13, Hamburg, Germany</string>
+
+    <string name="fourth_tour_name">Donkey Republic</string>
+    <string name="fourth_tour_desc">Explore on bike</string>
+    <string name="fourth_tour_full_desc">While Hamburg might not be as bike-friendly as its Scandinavian neighbors, bikes are still a popular form of
+        transportation and there is a decent number of dedicated bike lanes. Like most cities in Europe, Hamburg has its own bike sharing program (StadtRAD)
+        where you can check out bikes from automated stations throughout the city. You’ll need to first create an account on StradtRAD — the first 30-minutes
+        is free and then rentals cost 8 cents per minute with a maximum fee of €12 per day. In addition to private businesses that rent bikes, you’ll also see
+        bright orange bikes scattered throughout the city from a company called Donkey Republic — you use a smartphone app to find and unlock the bikes.
+        Prices start at 1.25 for 30 minutes and you just park the bike wherever you like when finished.</string>
+    <string name="fourth_tour_address">Neuer Pferdemarkt 12, 20359 Hamburg, Germany</string>
+
+    <!-- Category name for views [CHAR LIMIT=20] -->
+    <string name="category_views">Views</string>
+
+    <string name="first_view_name">Elbphilharmonie</string>
+    <string name="first_view_desc">37 meters high</string>
+    <string name="first_view_full_desc">The recently opened Elbphilharmonie Concert Hall is the largest and acoustically most advanced concert halls in the
+        world. This €870 million jewel of the Hamburg skyline is made to look like the ocean waves. Concert tickets are tough to score (and they’re not cheap)
+        but you can visit the 360-degree view observation decks for €2 (you canbook tickets online to skip the line).</string>
+    <string name="first_view_address">Elbphilharmonie, Platz der Deutschen Einheit, Hamburg, Germany</string>
+
+    <string name="second_view_name">Planetarium</string>
+    <string name="second_view_desc">70 meters high</string>
+    <string name="second_view_full_desc">This former water tower is now home to the planetarium and offers a viewing platform at the roof during the opening
+        hours which is free of charge. From here you can observe the wide Stadtpark, the City Nord and the nearby airport.</string>
+    <string name="second_view_address">22303 Hamburg, Germany</string>
+
+    <string name="third_view_name">Dockland</string>
+    <string name="third_view_desc">40 meters over the river Elbe</string>
+    <string name="third_view_full_desc">Down by the river you can find this modern structure – a building which looks like a ship. Use the many stairs
+        to get to the observation deck on top of the building and enjoy one of the best views across the harbour!</string>
+    <string name="third_view_address">Van-der-Smissen-Straße 9, 22767 Hamburg, Germany</string>
+
+    <string name="fourth_view_name">Michel</string>
+    <string name="fourth_view_desc">132 meters high</string>
+    <string name="fourth_view_full_desc">The inside of the church is well worth seeing, but the Michel is best known for its church tower: high up at the observation
+        deck of the 132-meter-high tower, you can enjoy a magnificent panoramic view of the city. Though this is the only one which isn\'t free it\'s worth spending the 5€ as the view from the St. Michael\'s church
+        is possibly the best view in town as you are able to enjoy a 360 degree view to all parts of the city. In combination with the interior of the church
+        it is definitely one of the best things to do in Hamburg. Every now and then there is an event called “Nachtmichel” where you are able to access the
+        platform at night, a ticket is 10,50€.</string>
+    <string name="fourth_view_address">St. Michael\'s Church, Englische Planke, Hamburg, Germany</string>
+
+</resources>
